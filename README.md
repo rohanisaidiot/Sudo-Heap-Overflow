@@ -1,5 +1,5 @@
 # Sudo-Heap-Overflow
-PoC for CVE-2021-3156 (sudo heap overflow). Exploit by @gf_256 aka cts. Thanks to r4j from super guesser for help. Credit to Braon Samedit of Qualys for the original advisory.
+PoC for Sudo Heap Overflow. Exploit by Rohan Mehta(2.14.22). Thanks to r4j from super guesser for help. Credit to Braon Samedit of Qualys for the original advisory.
 
 Demo video
 
