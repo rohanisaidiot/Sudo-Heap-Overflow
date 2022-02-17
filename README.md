@@ -1,6 +1,5 @@
 # Sudo-Heap-Overflow
-PoC for Sudo Heap Overflow. Exploit by Rohan Mehta(2.14.22). Thanks to r4j from super guesser for help. Credit to Braon Samedit of Qualys for the original advisory.
-
+PoC for Sudo Heap Overflow. Exploit by Rohan Mehta(2.14.22). 
 Demo video
 
 Important note
